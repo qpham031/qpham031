@@ -42,7 +42,7 @@
 
 ---
 
-### 📫 How to Reach Me
+### 📫 Get in Touch
 [![GitHub](https://img.shields.io/badge/GitHub-qpham031-white?style=flat&logo=github&labelColor=181717)](https://github.com/qpham031) 
 [![Email](https://img.shields.io/badge/ucmerced-quangpham-white?logo=maildotru&logoColor=dbab00&labelColor=002355&style=flat)](mailto:quangpham@ucmerced.edu) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-qpham031-white?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZGF0YS1zdXBwb3J0ZWQtZHBzPSIyNHgyNCIgZmlsbD0iI2ZmZmZmZiIgY2xhc3M9Im1lcmNhZG8tbWF0Y2giIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgZm9jdXNhYmxlPSJmYWxzZSI+CiAgICAgIDxwYXRoIGQ9Ik0yMC41IDJoLTE3QTEuNSAxLjUgMCAwMDIgMy41djE3QTEuNSAxLjUgMCAwMDMuNSAyMmgxN2ExLjUgMS41IDAgMDAxLjUtMS41di0xN0ExLjUgMS41IDAgMDAyMC41IDJ6TTggMTlINXYtOWgzek02LjUgOC4yNUExLjc1IDEuNzUgMCAxMTguMyA2LjVhMS43OCAxLjc4IDAgMDEtMS44IDEuNzV6TTE5IDE5aC0zdi00Ljc0YzAtMS40Mi0uNi0xLjkzLTEuMzgtMS45M0ExLjc0IDEuNzQgMCAwMDEzIDE0LjE5YS42Ni42NiAwIDAwMCAuMTRWMTloLTN2LTloMi45djEuM2EzLjExIDMuMTEgMCAwMTIuNy0xLjRjMS41NSAwIDMuMzYuODYgMy4zNiAzLjY2eiI+PC9wYXRoPgogICAgPC9zdmc+&labelColor=0a66c2&style=flat)](https://www.linkedin.com/in/qpham031/) 
