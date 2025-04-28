@@ -2,12 +2,12 @@
 
 ### And I'm..
 
-🇻🇳 Fluent in Vietnamese and English<br>  
-🎓 Studying Computer Science & Engineering at UC Merced<br>  
-🦀 Rust enthusiast — always up for coding challenges<br>  
-💻 Passionate about building reliable and efficient software<br>  
-🚀 Aspiring Software Developer, excited to learn and grow<br>  
-🌟 Interested in concurrency and performance optimization<br>  
+🇻🇳 Fluent in Vietnamese and English  
+🎓 Studying Computer Science & Engineering at UC Merced  
+🦀 Rust enthusiast — always up for coding challenges  
+💻 Passionate about building reliable and efficient software  
+🚀 Aspiring Software Developer, excited to learn and grow  
+🌟 Interested in concurrency and performance optimization  
 💬 Let's connect — I love talking code and new ideas!  
 
 ---
