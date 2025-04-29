@@ -24,10 +24,9 @@
 ### 🌐 Web Development
 
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white&style=for-the-badge)
-![Turso](https://img.shields.io/badge/Turso-4FF8D2?logo=turso&logoColor=white&style=for-the-badge)
+![Turso](https://img.shields.io/badge/Turso-121b22?logo=turso&logoColor=4FF8D2&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
@@ -36,7 +35,7 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white&style=for-the-badge)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cGF0aCBkPSJNMzAuODY1IDMuNDQ4bC02LjU4My0zLjE2N2MtMC43NjYtMC4zNy0xLjY3Ny0wLjIxNC0yLjI3NiAwLjM4NWwtMTIuNjA5IDExLjUwNS01LjQ5NS00LjE2N2MtMC41MS0wLjM5MS0xLjIyOS0wLjM1OS0xLjcwMyAwLjA3M2wtMS43NiAxLjYwNGMtMC41ODMgMC41MjYtMC41ODMgMS40NDMtMC4wMDUgMS45NjlsNC43NjYgNC4zNDktNC43NjYgNC4zNDljLTAuNTc4IDAuNTI2LTAuNTc4IDEuNDQzIDAuMDA1IDEuOTY5bDEuNzYgMS42MDRjMC40NzkgMC40MzIgMS4xOTMgMC40NjQgMS43MDMgMC4wNzNsNS40OTUtNC4xNzIgMTIuNjE1IDExLjUxYzAuNTk0IDAuNTk5IDEuNTA1IDAuNzU1IDIuMjcxIDAuMzg1bDYuNTg5LTMuMTcyYzAuNjkzLTAuMzMzIDEuMTMtMS4wMzEgMS4xMy0xLjgwMnYtMjEuNDk1YzAtMC43NjYtMC40NDMtMS40NjktMS4xMzUtMS44MDJ6TTI0LjAwNSAyMy4yNjZsLTkuNTczLTcuMjY2IDkuNTczLTcuMjY2eiIvPgo8L3N2Zz4=&logoColor=white&style=for-the-badge)
 ![Podman](https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=white&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
 
@@ -44,5 +43,5 @@
 
 ### 📫 Get in Touch
 [![GitHub](https://img.shields.io/badge/GitHub-qpham031-white?style=flat&logo=github&labelColor=181717)](https://github.com/qpham031) 
-[![Email](https://img.shields.io/badge/ucmerced-quangpham-white?logo=maildotru&logoColor=dbab00&labelColor=002355&style=flat)](mailto:quangpham@ucmerced.edu) 
+[![Email](https://img.shields.io/badge/Email-quangpham-white?logo=mailboxdotorg&logoColor=dbab00&labelColor=002355&style=flat)](mailto:quangpham@ucmerced.edu) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-qpham031-white?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZGF0YS1zdXBwb3J0ZWQtZHBzPSIyNHgyNCIgZmlsbD0iI2ZmZmZmZiIgY2xhc3M9Im1lcmNhZG8tbWF0Y2giIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgZm9jdXNhYmxlPSJmYWxzZSI+CiAgICAgIDxwYXRoIGQ9Ik0yMC41IDJoLTE3QTEuNSAxLjUgMCAwMDIgMy41djE3QTEuNSAxLjUgMCAwMDMuNSAyMmgxN2ExLjUgMS41IDAgMDAxLjUtMS41di0xN0ExLjUgMS41IDAgMDAyMC41IDJ6TTggMTlINXYtOWgzek02LjUgOC4yNUExLjc1IDEuNzUgMCAxMTguMyA2LjVhMS43OCAxLjc4IDAgMDEtMS44IDEuNzV6TTE5IDE5aC0zdi00Ljc0YzAtMS40Mi0uNi0xLjkzLTEuMzgtMS45M0ExLjc0IDEuNzQgMCAwMDEzIDE0LjE5YS42Ni42NiAwIDAwMCAuMTRWMTloLTN2LTloMi45djEuM2EzLjExIDMuMTEgMCAwMTIuNy0xLjRjMS41NSAwIDMuMzYuODYgMy4zNiAzLjY2eiI+PC9wYXRoPgogICAgPC9zdmc+&labelColor=0a66c2&style=flat)](https://www.linkedin.com/in/qpham031/) 
