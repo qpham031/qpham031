@@ -2,7 +2,6 @@
 
 ### And I'm..
 
-🇻🇳 Fluent in Vietnamese and English  
 🎓 Studying Computer Science & Engineering at UC Merced  
 🦀 Rust enthusiast — always up for coding challenges  
 💻 Passionate about building reliable and efficient software  
