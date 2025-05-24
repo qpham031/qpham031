@@ -23,7 +23,8 @@
 ### 🌐 Web Development
 
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![React](https://img.shields.io/badge/React-3f3f46?logo=react&logoColor=61DAFB&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-030712?logo=tailwindcss&logoColor=00bcff&style=for-the-badge)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white&style=for-the-badge)
 ![Turso](https://img.shields.io/badge/Turso-121b22?logo=turso&logoColor=4FF8D2&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
