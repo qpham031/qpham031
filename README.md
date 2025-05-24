@@ -2,14 +2,12 @@
 
 ### And I'm..
 
-🎓 Studying Computer Science & Engineering at UC Merced  
-🦀 Rust enthusiast — always up for coding challenges  
-💻 Passionate about building reliable and efficient software  
-🚀 Aspiring Software Developer, excited to learn and grow  
-🌟 Interested in concurrency and performance optimization  
-💬 Let's connect — I love talking code and new ideas!  
-
----
+- 🎓 Studying Computer Science & Engineering at UC Merced
+- 🦀 Rust enthusiast — always up for coding challenges
+- 💻 Passionate about building reliable and efficient software
+- 🚀 Aspiring Software Developer, excited to learn and grow
+- 🌟 Interested in concurrency and performance optimization
+- 💬 Let's connect — I love talking code and new ideas!
 
 ### 🔧 Programming Languages
 
@@ -38,10 +36,3 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cGF0aCBkPSJNMzAuODY1IDMuNDQ4bC02LjU4My0zLjE2N2MtMC43NjYtMC4zNy0xLjY3Ny0wLjIxNC0yLjI3NiAwLjM4NWwtMTIuNjA5IDExLjUwNS01LjQ5NS00LjE2N2MtMC41MS0wLjM5MS0xLjIyOS0wLjM1OS0xLjcwMyAwLjA3M2wtMS43NiAxLjYwNGMtMC41ODMgMC41MjYtMC41ODMgMS40NDMtMC4wMDUgMS45NjlsNC43NjYgNC4zNDktNC43NjYgNC4zNDljLTAuNTc4IDAuNTI2LTAuNTc4IDEuNDQzIDAuMDA1IDEuOTY5bDEuNzYgMS42MDRjMC40NzkgMC40MzIgMS4xOTMgMC40NjQgMS43MDMgMC4wNzNsNS40OTUtNC4xNzIgMTIuNjE1IDExLjUxYzAuNTk0IDAuNTk5IDEuNTA1IDAuNzU1IDIuMjcxIDAuMzg1bDYuNTg5LTMuMTcyYzAuNjkzLTAuMzMzIDEuMTMtMS4wMzEgMS4xMy0xLjgwMnYtMjEuNDk1YzAtMC43NjYtMC40NDMtMS40NjktMS4xMzUtMS44MDJ6TTI0LjAwNSAyMy4yNjZsLTkuNTczLTcuMjY2IDkuNTczLTcuMjY2eiIvPgo8L3N2Zz4=&logoColor=white&style=for-the-badge)
 ![Podman](https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=white&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
-
----
-
-### 📫 Get in Touch
-[![GitHub](https://img.shields.io/badge/GitHub-qpham031-white?style=flat&logo=github&labelColor=181717)](https://github.com/qpham031) 
-[![Email](https://img.shields.io/badge/Email-quangpham-white?logo=mailboxdotorg&logoColor=white&labelColor=002355&style=flat)](mailto:quangpham@ucmerced.edu) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-qpham031-white?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZGF0YS1zdXBwb3J0ZWQtZHBzPSIyNHgyNCIgZmlsbD0iI2ZmZmZmZiIgY2xhc3M9Im1lcmNhZG8tbWF0Y2giIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgZm9jdXNhYmxlPSJmYWxzZSI+CiAgICAgIDxwYXRoIGQ9Ik0yMC41IDJoLTE3QTEuNSAxLjUgMCAwMDIgMy41djE3QTEuNSAxLjUgMCAwMDMuNSAyMmgxN2ExLjUgMS41IDAgMDAxLjUtMS41di0xN0ExLjUgMS41IDAgMDAyMC41IDJ6TTggMTlINXYtOWgzek02LjUgOC4yNUExLjc1IDEuNzUgMCAxMTguMyA2LjVhMS43OCAxLjc4IDAgMDEtMS44IDEuNzV6TTE5IDE5aC0zdi00Ljc0YzAtMS40Mi0uNi0xLjkzLTEuMzgtMS45M0ExLjc0IDEuNzQgMCAwMDEzIDE0LjE5YS42Ni42NiAwIDAwMCAuMTRWMTloLTN2LTloMi45djEuM2EzLjExIDMuMTEgMCAwMTIuNy0xLjRjMS41NSAwIDMuMzYuODYgMy4zNiAzLjY2eiI+PC9wYXRoPgogICAgPC9zdmc+&labelColor=0a66c2&style=flat)](https://www.linkedin.com/in/qpham031/) 
