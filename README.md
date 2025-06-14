@@ -3,7 +3,6 @@
 ### And I'm..
 
 - 🎓 Studying Computer Science & Engineering at UC Merced
-- 🦀 Rust enthusiast — always up for coding challenges
 - 💻 Passionate about building reliable and efficient software
 - 🚀 Aspiring Software Developer, excited to learn and grow
 - 🌟 Interested in concurrency and performance optimization
